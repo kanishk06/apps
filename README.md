@@ -1,6 +1,6 @@
 This repository is *archived*.
 
-Most apps are outdated and incompatible with recent ownCloud versions.
+Most apps are outdated and incompatible with recent ownCloud version.
 
 The following apps were moved out:
 - external: moved to https://github.com/owncloud/external
